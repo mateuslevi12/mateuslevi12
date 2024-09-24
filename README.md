@@ -11,8 +11,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateuslevi12&layout=compact&theme=dracula)
 
 ##
-
-<div style="display: inline-block"><br/>
+🛠 Tech Stack:
+<div style="display: inline-block">
     <img heigth=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
     <img heigth=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
     <img heigth=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
