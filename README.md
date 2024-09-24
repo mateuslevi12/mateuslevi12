@@ -2,6 +2,10 @@
 
 ### Fullstack developer
 
+💻 I currently work at Jungle Software Development.<br>
+🚀 Fullstack developer with 1 year of experience in web development.<br>
+🌱 Currently, I am studying model training in artificial intelligence.
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateuslevi12&layout=compact&theme=dracula)
 
 ##
