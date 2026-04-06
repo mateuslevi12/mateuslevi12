@@ -2,9 +2,7 @@
 
 ### Fullstack developer
 
-💻 I currently work at Jungle Software Development.<br>
-🚀 Fullstack developer with 2 years of experience in web development.<br>
-🌱 Currently, I am studying model training in artificial intelligence.
+🚀 Fullstack developer with 3 years of experience in web development.<br>
 
 <br/>
 
