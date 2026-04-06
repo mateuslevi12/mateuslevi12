@@ -6,8 +6,6 @@
 
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateuslevi12&layout=compact&theme=dracula)
-
 ##
 🛠 Tech Stack:
 <div style="display: inline-block">
